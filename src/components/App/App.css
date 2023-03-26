@@ -16,5 +16,19 @@
 .container {
   margin: 5%;
   display: flex;
-  justify-content: space-between;
+  flex-wrap:wrap;
+}
+
+.textBox {
+  width: 250px;
+  height: 205px;
+  border: 1px solid black
+}
+
+.smallContainer {
+  padding: 2%;
+}
+
+body {
+  background-color: rgb(242, 241, 241);
 }
