@@ -1,6 +1,7 @@
 # Galeria: An Image Gallery Page Using React
 
-<img width="1424" alt="Screenshot 2023-04-03 at 11 13 35 AM" src="https://user-images.githubusercontent.com/117591917/234154458-38a90a03-016c-48bb-b53a-5b8863feb4bf.png">
+<img width="1426" alt="Screenshot 2023-04-24 at 8 52 40 PM" src="https://user-images.githubusercontent.com/117591917/234155067-7d426a3f-32be-4568-863a-ab5083e925ad.png">
+
 
 ## Description
 
