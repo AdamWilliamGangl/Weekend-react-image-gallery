@@ -1,5 +1,7 @@
 # Galeria: An Image Gallery Page Using React
 
+<img width="1424" alt="Screenshot 2023-04-03 at 11 13 35 AM" src="https://user-images.githubusercontent.com/117591917/234154458-38a90a03-016c-48bb-b53a-5b8863feb4bf.png">
+
 ## Description
 
 Galeria is an image gallery that utilizes CRUD capabilities in order to allow the user to upload, delete and 'like' images.
