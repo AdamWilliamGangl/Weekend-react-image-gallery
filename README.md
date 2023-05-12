@@ -9,7 +9,7 @@ Galeria is an image gallery that utilizes CRUD capabilities in order to allow th
 <br /><br />
 
 ## Part 1: Upload Image
-A user has the ability to upload an image at the top of the page. This opens a modal form where the user can enter an image url and a description
+A user has the ability to upload an image at the top of the page. This opens a modal form where the user can enter an image url and a description for their image.
 
 Once a user selects 'upload' the new image will be visible among the gallery- displayed as a card.
 <br /><br />
